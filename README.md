@@ -1,2 +1,2 @@
-# Visual_Analystics
+# Visual_Analytics
 SRA 268
